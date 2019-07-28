@@ -1,0 +1,55 @@
+
+Gsquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ä˜³ÃÃ-
+V
+squid:S106†"9Replace this use of System.out or System.err by a logger.(›ÀœL8ä˜³ÃÃ-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(û£‡‹8”ëÃÃ-
+\
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(‚½³Òüÿÿÿÿ8ä˜³ÃÃ-
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(„‘Òóûÿÿÿÿ8·ãÃÃ-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8†üÃÃ-
+esquid:S2142À"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ä˜³ÃÃ-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¨ªô¡üÿÿÿÿ8·ãÃÃ-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(€Ëà÷øÿÿÿÿ8ä˜³ÃÃ-
+W
+squid:S106é"9Replace this use of System.out or System.err by a logger.(õ¿Í‡8·ãÃÃ-
+V
+squid:S106²"9Replace this use of System.out or System.err by a logger.(™‚@8¶ó´ÃÃ-
+Gsquid:S1148Þ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ä˜³ÃÃ-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(›ÅÅåøÿÿÿÿ8ä˜³ÃÃ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ºÒêüÿÿÿÿ
+esquid:S2142Ê"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ä˜³ÃÃ-
+Gsquid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ä˜³ÃÃ-
+V
+squid:S106Ž"9Replace this use of System.out or System.err by a logger.(ÒÃó18ä˜³ÃÃ-
+Gsquid:S1148î"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8·ãÃÃ-
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(£Ö÷ÿÿÿÿÿ8”ëÃÃ-
+W
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(¢«ùÓ8¶ó´ÃÃ-
+Gsquid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¶ó´ÃÃ-
+\
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(´žø«ùÿÿÿÿ8ä˜³ÃÃ-
+W
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(õ¿Í‡8ä˜³ÃÃ-
+jsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ùé¥°8¶ó´ÃÃ-
+V
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ìš„Ù8ä˜³ÃÃ-
+\
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(„‘Òóûÿÿÿÿ8ä˜³ÃÃ-
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ÖÝ’8·ãÃÃ-
+Osquid:S1602Z",Remove useless curly braces around statement(¶‡®ºúÿÿÿÿ8ä˜³ÃÃ-
+X
+squid:S899É":Do something with the "boolean" value returned by "await".(‰þÓê8ä˜³ÃÃ-
+V
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ÂÍ¾È8ä˜³ÃÃ-
+esquid:S2142›"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¶ó´ÃÃ-
+\
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ÝŸú…ûÿÿÿÿ8ä˜³ÃÃ-
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(·÷“¥8ä˜³ÃÃ-
+[
+squid:S106x"9Replace this use of System.out or System.err by a logger.(àÈ ´ûÿÿÿÿ8ä˜³ÃÃ-
