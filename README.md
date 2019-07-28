@@ -1,4 +1,4 @@
-# grpc-demo
+# grpc-demo Java
 
 # COMPARISON GRPC HTTP-REST
 https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0
