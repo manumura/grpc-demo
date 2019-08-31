@@ -14,7 +14,7 @@ Very useful when message needs to evolve (add / remove fields).
 
 ## Default values :
 
-All fields, if not specified, will take defauult value:
+All fields, if not specified, will take default value:
 
 - bool: false
 - number: 0
@@ -25,9 +25,9 @@ All fields, if not specified, will take defauult value:
 	
 ## Data evolution :
 
-Forward compatible change : write data with new .proto, read from old .proto
+Forward compatible change : write data with new .proto, read from old .proto.
 
-Backward compatible change : write data with old .proto, read from new .proto
+Backward compatible change : write data with old .proto, read from new .proto.
 
 Rules to follow :
 - Dont change numeric tags for exisiting fields.
