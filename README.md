@@ -7,7 +7,9 @@
 ## Tags :
 
 Used to identify your fields in the message binary format.
+
 Should not be changed once your message type is in use.
+
 Very useful when message needs to evolve (add / remove fields).
 
 ## Default values :
